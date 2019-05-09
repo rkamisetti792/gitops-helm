@@ -2,11 +2,11 @@ apiVersion: v1
 appVersion: "0.4.0"
 description: Podinfo Helm chart for Kubernetes
 name: podinfo
-version: 0.2.1
-home: https://github.com/stefanprodan/k8s-podinfo
+version: 0.2.2
+home: https://github.com/rkamisetti792/k8s-podinfo
 sources:
-- https://github.com/stefanprodan/k8s-podinfo
+- https://github.com/rkamisetti792/k8s-podinfo
 maintainers:
-  - name: stefanprodan
-    email: stefanprodan@users.noreply.github.com
+  - name: rakeshkamisetti
+    email: rakeshkamisetti@users.noreply.github.com
 engine: gotpl
